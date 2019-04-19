@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:gml="http://www.opengis.net/gml" xmlns:lido="http://www.lido-schema.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <lido:lidoRecID lido:pref="alternate" lido:type="purl" lido:source="Koninklijk Museum voor Schone Kunsten Antwerpen" lido:label="dataPID">http://kmska.be/collection/work/data/257</lido:lidoRecID>
+  <lido:lidoRecID lido:pref="preferred" lido:type="urn" lido:source="Vlaamse Kunstcollectie - Arthub Flanders" lido:label="dataPID">oai:datahub.vlaamsekunstcollectie.be:kmska.be:257</lido:lidoRecID>
+  <lido:objectPublishedID lido:type="purl" lido:source="Koninklijk Museum voor Schone Kunsten Antwerpen" lido:label="workPID">http://kmska.be/collection/work/id/257</lido:objectPublishedID>
+  <lido:category>
+    <lido:conceptID lido:type="purl" lido:source="cidoc-crm">http://www.cidoc-crm.org/Entity/e22-man-made-object/version-6.1</lido:conceptID>
+    <lido:term>Man-Made Object</lido:term>
+  </lido:category>
+  <lido:descriptiveMetadata xml:lang="nl">
+    <lido:objectClassificationWrap>
+      <lido:objectWorkTypeWrap>
+        <lido:objectWorkType>
+          <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="TMS">228685</lido:conceptID>
+          <lido:term lido:pref="preferred" xml:lang="nl">drieluik[linkerluik,buiten]</lido:term>
+        </lido:objectWorkType>
+        <lido:objectWorkType>
+          <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="TMS">228765</lido:conceptID>
+          <lido:term lido:pref="preferred" xml:lang="nl">schilderij</lido:term>
+        </lido:objectWorkType>
+        <lido:objectWorkType>
+          <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="TMS">228685</lido:conceptID>
+          <lido:term lido:pref="preferred" xml:lang="nl">drieluik[linkerluik,buiten]</lido:term>
+        </lido:objectWorkType>
+        <lido:objectWorkType>
+          <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="TMS">228765</lido:conceptID>
+          <lido:term lido:pref="preferred" xml:lang="nl">schilderij</lido:term>
+        </lido:objectWorkType>
+      </lido:objectWorkTypeWrap>
+      <lido:classificationWrap>
+        <lido:classification lido:type="objectcategorie">
+          <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="TMS">12</lido:conceptID>
+          <lido:term lido:pref="preferred" xml:lang="nl">schilderij</lido:term>
+        </lido:classification>
+        <lido:classification lido:type="hoofdmotief">
+          <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="TMS">234202</lido:conceptID>
+          <lido:term lido:pref="preferred" xml:lang="nl">Religieuze voorstellingen</lido:term>
+        </lido:classification>
+        <lido:classification lido:type="hoofdmotief">
+          <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="TMS">234202</lido:conceptID>
+          <lido:term lido:pref="preferred" xml:lang="nl">Religieuze voorstellingen</lido:term>
+        </lido:classification>
+      </lido:classificationWrap>
+    </lido:objectClassificationWrap>
+    <lido:objectIdentificationWrap>
+      <lido:titleWrap>
+        <lido:titleSet>
+          <lido:appellationValue lido:pref="preferred" xml:lang="nl">Annunciatie</lido:appellationValue>
+          <lido:sourceAppellation xml:lang="nl">342</lido:sourceAppellation>
+        </lido:titleSet>
+      </lido:titleWrap>
+      <lido:repositoryWrap>
+        <lido:repositorySet>
+          <lido:workID lido:type="objectnummer">257</lido:workID>
+        </lido:repositorySet>
+      </lido:repositoryWrap>
+      <lido:objectDescriptionWrap>
+        <lido:objectDescriptionSet>
+          <lido:descriptiveNoteValue xml:lang="nl">Oorspronkelijk vormden de vier tafereeltjes (inv. nr. 257-260) twee panelen, die later doorgezaagd zijn. Op de achterkant van de "Calvarie" was "Maria" afgebeeld, en "Kruisafneming" vormde één paneel met "Gabriël". De achterzijde vormt aldus een voorstelling van de Annunciatie: Maria schrikt op van de engel die haar de boodschap komt brengen.&#13;
+        De werken zijn klein, waarschijnlijk gaat het om een reisaltaar. (Sandra Janssens, Museumboek)</lido:descriptiveNoteValue>
+        </lido:objectDescriptionSet>
+      </lido:objectDescriptionWrap>
+      <lido:objectMeasurementsWrap>
+        <lido:objectMeasurementsSet>
+          <lido:displayObjectMeasurements>23 × 14 cm</lido:displayObjectMeasurements>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>Hoogte</lido:measurementType>
+              <lido:measurementUnit>Centimeters</lido:measurementUnit>
+              <lido:measurementValue>23</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>Dagmaat</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:displayObjectMeasurements>29,7 × 20,5 × 1,5 cm</lido:displayObjectMeasurements>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>Hoogte</lido:measurementType>
+              <lido:measurementUnit>Centimeters</lido:measurementUnit>
+              <lido:measurementValue>29.7</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>Inclusief lijst</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:displayObjectMeasurements>23 × 14 cm</lido:displayObjectMeasurements>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>Hoogte</lido:measurementType>
+              <lido:measurementUnit>Centimeters</lido:measurementUnit>
+              <lido:measurementValue>23</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>Dagmaat</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:displayObjectMeasurements>29,7 × 20,5 × 1,5 cm</lido:displayObjectMeasurements>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>Hoogte</lido:measurementType>
+              <lido:measurementUnit>Centimeters</lido:measurementUnit>
+              <lido:measurementValue>29.7</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>Inclusief lijst</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:displayObjectMeasurements>23 × 14 cm</lido:displayObjectMeasurements>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>Breedte</lido:measurementType>
+              <lido:measurementUnit>Centimeters</lido:measurementUnit>
+              <lido:measurementValue>14</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>Dagmaat</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:displayObjectMeasurements>29,7 × 20,5 × 1,5 cm</lido:displayObjectMeasurements>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>Breedte</lido:measurementType>
+              <lido:measurementUnit>Centimeters</lido:measurementUnit>
+              <lido:measurementValue>20.5</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>Inclusief lijst</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:displayObjectMeasurements>23 × 14 cm</lido:displayObjectMeasurements>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>Breedte</lido:measurementType>
+              <lido:measurementUnit>Centimeters</lido:measurementUnit>
+              <lido:measurementValue>14</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>Dagmaat</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:displayObjectMeasurements>29,7 × 20,5 × 1,5 cm</lido:displayObjectMeasurements>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>Breedte</lido:measurementType>
+              <lido:measurementUnit>Centimeters</lido:measurementUnit>
+              <lido:measurementValue>20.5</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>Inclusief lijst</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:displayObjectMeasurements>29,7 × 20,5 × 1,5 cm</lido:displayObjectMeasurements>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>Diepte</lido:measurementType>
+              <lido:measurementUnit>Centimeters</lido:measurementUnit>
+              <lido:measurementValue>1.5</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>Inclusief lijst</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:displayObjectMeasurements>29,7 × 20,5 × 1,5 cm</lido:displayObjectMeasurements>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>Diepte</lido:measurementType>
+              <lido:measurementUnit>Centimeters</lido:measurementUnit>
+              <lido:measurementValue>1.5</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>Inclusief lijst</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+      </lido:objectMeasurementsWrap>
+    </lido:objectIdentificationWrap>
+    <lido:eventWrap>
+      <lido:eventSet>
+        <lido:event>
+          <lido:eventType>
+            <lido:term>production</lido:term>
+          </lido:eventType>
+          <lido:eventActor>
+            <lido:actorInRole>
+              <lido:actor>
+                <lido:actorID lido:type="local" lido:source="TMS">1907</lido:actorID>
+                <lido:actorID lido:type="purl" lido:source="VIAF">http://viaf.org/viaf/101100651</lido:actorID>
+                <lido:actorID lido:type="purl" lido:source="RKD">https://rkd.nl/explore/artists/53008</lido:actorID>
+                <lido:actorID lido:type="purl" lido:source="Wikidata">http://www.wikidata.org/wiki/Q221043</lido:actorID>
+                <lido:nameActorSet>
+                  <lido:appellationValue lido:pref="preferred">Simone Martini</lido:appellationValue>
+                  <lido:appellationValue lido:pref="alternate">Simone Martini</lido:appellationValue>
+                </lido:nameActorSet>
+                <lido:vitalDatesActor>
+                  <lido:earliestDate>1284</lido:earliestDate>
+                  <lido:latestDate>1344</lido:latestDate>
+                </lido:vitalDatesActor>
+              </lido:actor>
+              <lido:roleActor>
+                <lido:term>schilder</lido:term>
+              </lido:roleActor>
+            </lido:actorInRole>
+          </lido:eventActor>
+          <lido:periodName>
+            <lido:term xml:lang="nl">14de eeuw</lido:term>
+          </lido:periodName>
+          <lido:eventMaterialsTech>
+            <lido:materialsTech>
+              <lido:termMaterialsTech>
+                <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="TMS">228901</lido:conceptID>
+                <lido:term lido:pref="preferred" xml:lang="nl">hout</lido:term>
+              </lido:termMaterialsTech>
+            </lido:materialsTech>
+          </lido:eventMaterialsTech>
+          <lido:eventMaterialsTech>
+            <lido:materialsTech>
+              <lido:termMaterialsTech>
+                <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="TMS">228901</lido:conceptID>
+                <lido:term lido:pref="preferred" xml:lang="nl">hout</lido:term>
+              </lido:termMaterialsTech>
+            </lido:materialsTech>
+          </lido:eventMaterialsTech>
+          <lido:eventMaterialsTech>
+            <lido:displayMaterialsTech>olieverf op paneel</lido:displayMaterialsTech>
+          </lido:eventMaterialsTech>
+        </lido:event>
+      </lido:eventSet>
+    </lido:eventWrap>
+    <lido:objectRelationWrap>
+        <lido:relatedWorksWrap>
+                <lido:relatedWorkSet>
+                    <lido:relatedWork>
+                        <lido:object>
+                            <lido:objectID lido:source="" lido:type="local">257-260
+                            </lido:objectID>
+                            <lido:objectID lido:type="oai">
+                            oai:datahub.vlaamsekunstcollectie.be:kmska.be:257-260
+                            </lido:objectID>
+                        </lido:object>
+                        </lido:relatedWork>
+                    <lido:relatedWorkRelType>
+                        <lido:conceptID lido:type="URI">http://purl.org/dc/terms/hasPart</lido:conceptID>
+                        <lido:term xml:lang="en">has part</lido:term>
+                    </lido:relatedWorkRelType>
+                    </lido:relatedWorkSet>
+        </lido:relatedWorksWrap>
+     </lido:objectRelationWrap>
+  </lido:descriptiveMetadata>
+   <lido:descriptiveMetadata xml:lang="en">
+    <lido:objectClassificationWrap>
+      <lido:objectWorkTypeWrap>
+        <lido:objectWorkType>
+          <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="TMS">228685</lido:conceptID>
+          <lido:term lido:pref="preferred" xml:lang="nl">drieluik[linkerluik,buiten]</lido:term>
+        </lido:objectWorkType>
+        <lido:objectWorkType>
+          <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="TMS">228765</lido:conceptID>
+          <lido:term lido:pref="preferred" xml:lang="nl">schilderij</lido:term>
+        </lido:objectWorkType>
+        <lido:objectWorkType>
+          <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="TMS">228685</lido:conceptID>
+          <lido:term lido:pref="preferred" xml:lang="nl">drieluik[linkerluik,buiten]</lido:term>
+        </lido:objectWorkType>
+        <lido:objectWorkType>
+          <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="TMS">228765</lido:conceptID>
+          <lido:term lido:pref="preferred" xml:lang="nl">schilderij</lido:term>
+        </lido:objectWorkType>
+      </lido:objectWorkTypeWrap>
+      <lido:classificationWrap>
+        <lido:classification lido:type="objectcategorie">
+          <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="TMS">12</lido:conceptID>
+          <lido:term lido:pref="preferred" xml:lang="nl">schilderij</lido:term>
+        </lido:classification>
+        <lido:classification lido:type="hoofdmotief">
+          <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="TMS">234202</lido:conceptID>
+          <lido:term lido:pref="preferred" xml:lang="nl">Religieuze voorstellingen</lido:term>
+        </lido:classification>
+        <lido:classification lido:type="hoofdmotief">
+          <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="TMS">234202</lido:conceptID>
+          <lido:term lido:pref="preferred" xml:lang="nl">Religieuze voorstellingen</lido:term>
+        </lido:classification>
+      </lido:classificationWrap>
+    </lido:objectClassificationWrap>
+    <lido:objectIdentificationWrap>
+      <lido:titleWrap>
+        <lido:titleSet>
+          <lido:appellationValue lido:pref="preferred" xml:lang="nl">Annunciatie</lido:appellationValue>
+          <lido:sourceAppellation xml:lang="nl">342</lido:sourceAppellation>
+        </lido:titleSet>
+      </lido:titleWrap>
+      <lido:repositoryWrap>
+        <lido:repositorySet>
+          <lido:workID lido:type="objectnummer">257</lido:workID>
+        </lido:repositorySet>
+      </lido:repositoryWrap>
+      <lido:objectDescriptionWrap>
+        <lido:objectDescriptionSet>
+          <lido:descriptiveNoteValue xml:lang="en">Originally formed the four scenes (inv. No. 257-260) two panels, which have been cut back. On the back of the \ "Calvarie \" was \ "Maria \" is displayed, and \ "Deposition \" formed one panel with \ "Gabriel \". The back thus constitutes a representation of the Annunciation: Mary is startled by the angel who brings her the message \ r The works are small, probably it is a journey altar.. (Sandra Janssens, Museum Book)</lido:descriptiveNoteValue>
+        </lido:objectDescriptionSet>
+      </lido:objectDescriptionWrap>
+      <lido:objectMeasurementsWrap>
+        <lido:objectMeasurementsSet>
+          <lido:displayObjectMeasurements>23 × 14 cm</lido:displayObjectMeasurements>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>Hoogte</lido:measurementType>
+              <lido:measurementUnit>Centimeters</lido:measurementUnit>
+              <lido:measurementValue>23</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>Dagmaat</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:displayObjectMeasurements>29,7 × 20,5 × 1,5 cm</lido:displayObjectMeasurements>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>Hoogte</lido:measurementType>
+              <lido:measurementUnit>Centimeters</lido:measurementUnit>
+              <lido:measurementValue>29.7</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>Inclusief lijst</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:displayObjectMeasurements>23 × 14 cm</lido:displayObjectMeasurements>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>Hoogte</lido:measurementType>
+              <lido:measurementUnit>Centimeters</lido:measurementUnit>
+              <lido:measurementValue>23</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>Dagmaat</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:displayObjectMeasurements>29,7 × 20,5 × 1,5 cm</lido:displayObjectMeasurements>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>Hoogte</lido:measurementType>
+              <lido:measurementUnit>Centimeters</lido:measurementUnit>
+              <lido:measurementValue>29.7</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>Inclusief lijst</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:displayObjectMeasurements>23 × 14 cm</lido:displayObjectMeasurements>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>Breedte</lido:measurementType>
+              <lido:measurementUnit>Centimeters</lido:measurementUnit>
+              <lido:measurementValue>14</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>Dagmaat</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:displayObjectMeasurements>29,7 × 20,5 × 1,5 cm</lido:displayObjectMeasurements>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>Breedte</lido:measurementType>
+              <lido:measurementUnit>Centimeters</lido:measurementUnit>
+              <lido:measurementValue>20.5</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>Inclusief lijst</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:displayObjectMeasurements>23 × 14 cm</lido:displayObjectMeasurements>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>Breedte</lido:measurementType>
+              <lido:measurementUnit>Centimeters</lido:measurementUnit>
+              <lido:measurementValue>14</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>Dagmaat</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:displayObjectMeasurements>29,7 × 20,5 × 1,5 cm</lido:displayObjectMeasurements>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>Breedte</lido:measurementType>
+              <lido:measurementUnit>Centimeters</lido:measurementUnit>
+              <lido:measurementValue>20.5</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>Inclusief lijst</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:displayObjectMeasurements>29,7 × 20,5 × 1,5 cm</lido:displayObjectMeasurements>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>Diepte</lido:measurementType>
+              <lido:measurementUnit>Centimeters</lido:measurementUnit>
+              <lido:measurementValue>1.5</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>Inclusief lijst</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:displayObjectMeasurements>29,7 × 20,5 × 1,5 cm</lido:displayObjectMeasurements>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>Diepte</lido:measurementType>
+              <lido:measurementUnit>Centimeters</lido:measurementUnit>
+              <lido:measurementValue>1.5</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>Inclusief lijst</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+      </lido:objectMeasurementsWrap>
+    </lido:objectIdentificationWrap>
+    <lido:eventWrap>
+      <lido:eventSet>
+        <lido:event>
+          <lido:eventType>
+            <lido:term>production</lido:term>
+          </lido:eventType>
+          <lido:eventActor>
+            <lido:actorInRole>
+              <lido:actor>
+                <lido:actorID lido:type="local" lido:source="TMS">1907</lido:actorID>
+                <lido:actorID lido:type="purl" lido:source="VIAF">http://viaf.org/viaf/101100651</lido:actorID>
+                <lido:actorID lido:type="purl" lido:source="RKD">https://rkd.nl/explore/artists/53008</lido:actorID>
+                <lido:actorID lido:type="purl" lido:source="Wikidata">http://www.wikidata.org/wiki/Q221043</lido:actorID>
+                <lido:nameActorSet>
+                  <lido:appellationValue lido:pref="preferred">Simone Martini</lido:appellationValue>
+                  <lido:appellationValue lido:pref="alternate">Simone Martini</lido:appellationValue>
+                </lido:nameActorSet>
+                <lido:vitalDatesActor>
+                  <lido:earliestDate>1284</lido:earliestDate>
+                  <lido:latestDate>1344</lido:latestDate>
+                </lido:vitalDatesActor>
+              </lido:actor>
+              <lido:roleActor>
+                <lido:term>schilder</lido:term>
+              </lido:roleActor>
+            </lido:actorInRole>
+          </lido:eventActor>
+          <lido:periodName>
+            <lido:term xml:lang="en">14th century</lido:term>
+          </lido:periodName>
+          <lido:eventMaterialsTech>
+            <lido:materialsTech>
+              <lido:termMaterialsTech>
+                <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="TMS">228901</lido:conceptID>
+                <lido:term lido:pref="preferred" xml:lang="nl">hout</lido:term>
+              </lido:termMaterialsTech>
+            </lido:materialsTech>
+          </lido:eventMaterialsTech>
+          <lido:eventMaterialsTech>
+            <lido:materialsTech>
+              <lido:termMaterialsTech>
+                <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="TMS">228901</lido:conceptID>
+                <lido:term lido:pref="preferred" xml:lang="nl">hout</lido:term>
+              </lido:termMaterialsTech>
+            </lido:materialsTech>
+          </lido:eventMaterialsTech>
+          <lido:eventMaterialsTech>
+            <lido:displayMaterialsTech>olieverf op paneel</lido:displayMaterialsTech>
+          </lido:eventMaterialsTech>
+        </lido:event>
+      </lido:eventSet>
+    </lido:eventWrap>
+    <lido:objectRelationWrap>
+        <lido:relatedWorksWrap>
+                <lido:relatedWorkSet>
+                    <lido:relatedWork>
+                        <lido:object>
+                            <lido:objectID lido:source="" lido:type="local">257-260
+                            </lido:objectID>
+                            <lido:objectID lido:type="oai">
+                            oai:datahub.vlaamsekunstcollectie.be:kmska.be:257-260
+                            </lido:objectID>
+                        </lido:object>
+                        </lido:relatedWork>
+                    <lido:relatedWorkRelType>
+                        <lido:conceptID lido:type="URI">http://purl.org/dc/terms/isPartOf</lido:conceptID>
+                        <lido:term xml:lang="en">is part of</lido:term>
+                        </lido:relatedWorkRelType>
+                    </lido:relatedWorkSet>
+        </lido:relatedWorksWrap>
+     </lido:objectRelationWrap>
+  </lido:descriptiveMetadata>
+  <lido:administrativeMetadata xml:lang="nl">
+    <lido:recordWrap>
+      <lido:recordID lido:type="global">http://kmska.be/collection/work/data/257</lido:recordID>
+      <lido:recordID lido:type="local">328</lido:recordID>
+      <lido:recordType>
+        <lido:conceptID lido:type="local" lido:source="AAT">http://vocab.getty.edu/aat/300133025</lido:conceptID>
+        <lido:term>Item</lido:term>
+      </lido:recordType>
+      <lido:recordSource>
+        <lido:legalBodyName>
+          <lido:appellationValue>Koninklijk Museum voor Schone Kunsten Antwerpen</lido:appellationValue>
+        </lido:legalBodyName>
+        <lido:legalBodyWeblink>http://kmska.be</lido:legalBodyWeblink>
+      </lido:recordSource>
+    </lido:recordWrap>
+    <lido:resourceWrap>
+    <lido:resourceSet>
+        <lido:resourceID lido:type="local">0030251001</lido:resourceID>
+        <lido:resourceSource lido:type="holder of image">
+			    <lido:legalBodyName>
+				    <lido:appellationValue>
+			  	  Lukas, Arts in Flanders
+				    </lido:appellationValue>
+			    </lido:legalBodyName>
+		    </lido:resourceSource>
+        <lido:rightsResource>
+          <lido:rightsType>
+            <lido:conceptID lido:type:"URI" source="Creative Commons">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+            <lido:term>CC0</lido:term>
+            </lido:rightsType>
+        </lido:rightsResource>
+      </lido:resourceSet>
+    </lido:resourceWrap>
+  </lido:administrativeMetadata>
+</lido:lido>

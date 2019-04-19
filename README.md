@@ -17,3 +17,17 @@ these ETL pipelines take data from elsewhere and push them either to Cantaloupe,
 
 Additionally, there is an ETL pipeline that take data from Imagehub//Datahub, and pushes it to Arthub:
 - **Datahub 2 -> Arthub**: This script is very similar to the 'vanilla' Datahub -> Arthub script, but it should add links to the manifest.json files associated with the LIDO file that is being processed, potentially having to store both in an SQLite database or an equivalent of that before pushing them to the Arthub Solr database. 
+
+## csv 
+
+The CSV folder contains 5 CSV files that are used to read data out of the Datahub, enrich them, and deposit those enriched LIDO files into the Datahub copy. A detailed explanation of every CSV file, its columns, and how it should be used, can be found on the wiki. 
+
+## examples
+
+The examples folder contains 3 more folders, that show the different types of data that can be encountered when dealing with LIDO files. 
+
+- 1Lido1Image: This folder contains 2 lido files, 1 origin file extracted from the datahub, and a destination file showing how the LIDO files should be transformed before depositing it in the datahub copy. This lido file only has 1 image associated to it, and thus only has 1 Resource. It has no relations to other LIDO files. It is an example of metadata coming from the Museum voor Schone Kunsten, Gent. It shows how the file is enriched with translations. 
+- 1LidoMulImage: This folder contains 2 lido files, 1 origin file extracted from the datahub, and a destination file showing how the LIDO files should be transformed before depositing it in the datahub copy. this lido file has multiple images associated to it, and thus has multiple resources. It has no relations to other LIDO files. It is an example of metadata coming from the GroeningeMuseum Brugge. It shows how the file is enriched with translations. 
+- MulLido1Image: This folder contains 4 lido files, 2 origin files extracted from the datahub, and 2 destination files showing how the LIDO files should be transformed before depositing it in the datahub copy. Each individual lido file has 1 image associated to it, and thus has 1 resource. These lido files are related to each other, as shown in the RelatedWorks wrap.  They are examples of metadata coming from the KMSK Antwerpen. It shows how the file is enriched with translations.
+
+

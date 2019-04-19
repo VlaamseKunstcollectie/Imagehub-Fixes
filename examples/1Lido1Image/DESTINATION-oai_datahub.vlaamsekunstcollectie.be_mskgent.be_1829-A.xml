@@ -393,6 +393,22 @@
           <lido:linkResource>http://mskgent.be/collection/work/representation/1829-A</lido:linkResource>
         </lido:resourceRepresentation>
       </lido:resourceSet>
+      <lido:resourceSet>
+        <lido:resourceID lido:type="local">0020002000</lido:resourceID>
+        <lido:resourceSource lido:type="holder of image">
+			    <lido:legalBodyName>
+				    <lido:appellationValue>
+			  	  Lukas, Arts in Flanders
+				    </lido:appellationValue>
+			    </lido:legalBodyName>
+		    </lido:resourceSource>
+        <lido:rightsResource>
+          <lido:rightsType>
+            <lido:conceptID lido:type:"URI" source="Creative Commons">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+            <lido:term>CC0</lido:term>
+            </lido:rightsType>
+        </lido:rightsResource>
+      </lido:resourceSet>
     </lido:resourceWrap>
   </lido:administrativeMetadata>
 </lido:lido>

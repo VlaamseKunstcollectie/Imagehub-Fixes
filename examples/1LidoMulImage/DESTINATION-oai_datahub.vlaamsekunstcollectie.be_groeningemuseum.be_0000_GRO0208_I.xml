@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:gml="http://www.opengis.net/gml" xmlns:lido="http://www.lido-schema.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <lido:lidoRecID lido:pref="alternate" lido:type="purl" lido:source="Musea Brugge - Groeningemuseum" lido:label="dataPID">http://groeningemuseum.be/collection/work/data/0000_GRO0208_I</lido:lidoRecID>
+  <lido:lidoRecID lido:pref="preferred" lido:type="urn" lido:source="Vlaamse Kunstcollectie - Arthub Flanders" lido:label="dataPID">oai:datahub.vlaamsekunstcollectie.be:groeningemuseum.be:0000_GRO0208_I</lido:lidoRecID>
+  <lido:objectPublishedID lido:type="purl" lido:source="Musea Brugge - Groeningemuseum" lido:label="workPID">http://groeningemuseum.be/collection/work/id/0000_GRO0208_I</lido:objectPublishedID>
+  <lido:category>
+    <lido:conceptID lido:type="purl" lido:source="cidoc-crm">http://www.cidoc-crm.org/Entity/e22-man-made-object/version-6.1</lido:conceptID>
+    <lido:term>Man-Made Object</lido:term>
+  </lido:category>
+  <lido:descriptiveMetadata xml:lang="nl">
+    <lido:objectClassificationWrap>
+      <lido:objectWorkTypeWrap>
+        <lido:objectWorkType>
+          <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="Adlib">20000153</lido:conceptID>
+          <lido:conceptID lido:pref="alternate" lido:type="purl" lido:source="AAT">http://vocab.getty.edu/aat/300033799</lido:conceptID>
+          <lido:term lido:pref="preferred" xml:lang="nl">olieverfschildering</lido:term>
+          <lido:term lido:pref="alternate" xml:lang="nl">olieverfschilderingen</lido:term>
+        </lido:objectWorkType>
+      </lido:objectWorkTypeWrap>
+      <lido:classificationWrap>
+        <lido:classification lido:type="objectcategorie">
+          <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="Adlib">20000001</lido:conceptID>
+          <lido:conceptID lido:pref="alternate" lido:type="purl" lido:source="AAT">http://vocab.getty.edu/aat/300033618</lido:conceptID>
+          <lido:term lido:pref="preferred" xml:lang="nl">schilderingen</lido:term>
+          <lido:term lido:pref="alternate" xml:lang="nl">schilderingen</lido:term>
+        </lido:classification>
+        <lido:classification lido:type="hoofdmotief">
+          <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="Adlib">20000137</lido:conceptID>
+          <lido:term lido:pref="preferred" xml:lang="nl">religieuze voorstellingen</lido:term>
+        </lido:classification>
+      </lido:classificationWrap>
+    </lido:objectClassificationWrap>
+    <lido:objectIdentificationWrap>
+      <lido:titleWrap>
+        <lido:titleSet>
+          <lido:appellationValue lido:pref="preferred" xml:lang="nl">Laatste Oordeel</lido:appellationValue>
+        </lido:titleSet>
+      </lido:titleWrap>
+      <lido:repositoryWrap>
+        <lido:repositorySet>
+          <lido:repositoryName>
+            <lido:legalBodyName>
+              <lido:appellationValue>Musea Brugge - Groeningemuseum</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:repositoryName>
+          <lido:workID lido:type="objectnummer">0000.GRO0208.I</lido:workID>
+        </lido:repositorySet>
+      </lido:repositoryWrap>
+      <lido:objectDescriptionWrap>
+        <lido:objectDescriptionSet>
+          <lido:descriptiveNoteValue>Het drieluik toont de drie hoofdmotieven uit het verhaal van het einde der tijden. Het middenluik stelt het Laatste Oordeel voor, waarbij Christus verschijnt in zijn apocalyptische gedaante, omringd door vier bazuinende engelen en een aantal heiligen. De lelietak en het zwaard volgen zijn handgebaar: respectievelijk opwaarts in de richting van de gelukzaligen, neerwaarts naar de verdoemden. Het hemels paradijs op het linkerluik en de hel op het rechterluik tonen de reeds voltrokken toestand na het Oordeel. Bizar en fantastisch in de uitbeelding van gelukzaligheid en verdoemenis, is het schilderij vooral wat de opvatting van het Oordeel zelf betreft onconventioneel. Zowel het motief van de opstanding der doden als het verzamelen van de uitverkorenen schijnt de schilder bewust achterwege te hebben gelaten. Christus verschijnt boven een monsterachtige in ondeugd en dwaasheid levende wereld, die reeds een hel op zichzelf is. De typische stijl van Jheronimus Bosch is herkenbaar in de kleine figuren, de bizarre en monsterachtige elementen, de kleuren en de fijne, transparante schilderwijze. De moraliserende bedoeling is hier duidelijk. Gesloten vertoont het drieluik resten van een doornenkroning in grisaille, die oorspronkelijk ononderbroken over de twee luiken doorliep.</lido:descriptiveNoteValue>
+        </lido:objectDescriptionSet>
+      </lido:objectDescriptionWrap>
+      <lido:objectMeasurementsWrap>
+        <lido:objectMeasurementsSet>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>hoogte</lido:measurementType>
+              <lido:measurementUnit>cm</lido:measurementUnit>
+              <lido:measurementValue>98.7</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>geheel</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>breedte</lido:measurementType>
+              <lido:measurementUnit>cm</lido:measurementUnit>
+              <lido:measurementValue>110.7</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>geheel</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>hoogte</lido:measurementType>
+              <lido:measurementUnit>cm</lido:measurementUnit>
+              <lido:measurementValue>111.5</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>met lijst</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>breedte</lido:measurementType>
+              <lido:measurementUnit>cm</lido:measurementUnit>
+              <lido:measurementValue>147</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>met lijst</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>diepte</lido:measurementType>
+              <lido:measurementUnit>cm</lido:measurementUnit>
+              <lido:measurementValue>5</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>met lijst</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>hoogte</lido:measurementType>
+              <lido:measurementUnit>cm</lido:measurementUnit>
+              <lido:measurementValue>109.4</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>met lijst</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>breedte</lido:measurementType>
+              <lido:measurementUnit>cm</lido:measurementUnit>
+              <lido:measurementValue>148.1</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>met lijst</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>diepte</lido:measurementType>
+              <lido:measurementUnit>cm</lido:measurementUnit>
+              <lido:measurementValue>6</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>met lijst</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+      </lido:objectMeasurementsWrap>
+    </lido:objectIdentificationWrap>
+    <lido:eventWrap>
+      <lido:eventSet>
+        <lido:event>
+          <lido:eventType>
+            <lido:term>production</lido:term>
+          </lido:eventType>
+          <lido:eventActor>
+            <lido:actorInRole>
+              <lido:actor>
+                <lido:actorID lido:type="local" lido:source="Adlib">20000133</lido:actorID>
+                <lido:actorID lido:type="purl" lido:source="VIAF">http://viaf.org/viaf/305854999</lido:actorID>
+                <lido:actorID lido:type="purl" lido:source="RKD">https://rkd.nl/explore/artists/11018</lido:actorID>
+                <lido:actorID lido:type="purl" lido:source="Wikidata">http://www.wikidata.org/wiki/Q130531</lido:actorID>
+                <lido:nameActorSet>
+                  <lido:appellationValue lido:pref="preferred">Bosch, Jheronimus</lido:appellationValue>
+                  <lido:appellationValue lido:pref="alternate">Jheronimus Bosch</lido:appellationValue>
+                </lido:nameActorSet>
+                <lido:vitalDatesActor>
+                  <lido:earliestDate>1450</lido:earliestDate>
+                  <lido:latestDate>1516</lido:latestDate>
+                </lido:vitalDatesActor>
+              </lido:actor>
+            </lido:actorInRole>
+          </lido:eventActor>
+          <lido:eventDate>
+            <lido:displayDate>circa 1500</lido:displayDate>
+            <lido:date>
+              <lido:earliestDate lido:type="circa">1500</lido:earliestDate>
+              <lido:latestDate lido:type="circa">1500</lido:latestDate>
+            </lido:date>
+          </lido:eventDate>
+          <lido:periodName>
+            <lido:conceptID lido:type="local" lido:source="Adlib">20000150</lido:conceptID>
+            <lido:term xml:lang="nl">15de eeuw</lido:term>
+          </lido:periodName>
+          <lido:periodName>
+            <lido:conceptID lido:type="local" lido:source="Adlib">20000146</lido:conceptID>
+            <lido:term xml:lang="nl">16de eeuw</lido:term>
+          </lido:periodName>
+          <lido:eventMaterialsTech>
+            <lido:materialsTech>
+              <lido:termMaterialsTech>
+                <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="Adlib">20000012</lido:conceptID>
+                <lido:term lido:pref="preferred" xml:lang="nl">olieverf</lido:term>
+              </lido:termMaterialsTech>
+            </lido:materialsTech>
+          </lido:eventMaterialsTech>
+          <lido:eventMaterialsTech>
+            <lido:materialsTech>
+              <lido:termMaterialsTech>
+                <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="Adlib">20000158</lido:conceptID>
+                <lido:conceptID lido:pref="alternate" lido:type="purl" lido:source="AAT">http://vocab.getty.edu/aat/300012264</lido:conceptID>
+                <lido:term lido:pref="preferred" xml:lang="nl">eikenhout</lido:term>
+                <lido:term lido:pref="alternate" xml:lang="nl">eikenhout</lido:term>
+              </lido:termMaterialsTech>
+            </lido:materialsTech>
+          </lido:eventMaterialsTech>
+          <lido:eventMaterialsTech>
+            <lido:displayMaterialsTech>olieverf op paneel</lido:displayMaterialsTech>
+          </lido:eventMaterialsTech>
+        </lido:event>
+      </lido:eventSet>
+    </lido:eventWrap>
+  </lido:descriptiveMetadata>
+   <lido:descriptiveMetadata xml:lang="en">
+    <lido:objectClassificationWrap>
+      <lido:objectWorkTypeWrap>
+        <lido:objectWorkType>
+          <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="Adlib">20000153</lido:conceptID>
+          <lido:conceptID lido:pref="alternate" lido:type="purl" lido:source="AAT">http://vocab.getty.edu/aat/300033799</lido:conceptID>
+          <lido:term lido:pref="preferred" xml:lang="en">oil paintings</lido:term>
+          <lido:term lido:pref="alternate" xml:lang="en">paintings, oil</lido:term>
+        </lido:objectWorkType>
+      </lido:objectWorkTypeWrap>
+      <lido:classificationWrap>
+        <lido:classification lido:type="objectcategorie">
+          <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="Adlib">20000001</lido:conceptID>
+          <lido:conceptID lido:pref="alternate" lido:type="purl" lido:source="AAT">http://vocab.getty.edu/aat/300033618</lido:conceptID>
+          <lido:term lido:pref="preferred" xml:lang="en">paintings</lido:term>
+          <lido:term lido:pref="alternate" xml:lang="en">painting</lido:term>
+        </lido:classification>
+        <lido:classification lido:type="hoofdmotief">
+          <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="Adlib">20000137</lido:conceptID>
+          <lido:term lido:pref="preferred" xml:lang="nl">religieuze voorstellingen</lido:term>
+        </lido:classification>
+      </lido:classificationWrap>
+    </lido:objectClassificationWrap>
+    <lido:objectIdentificationWrap>
+      <lido:titleWrap>
+        <lido:titleSet>
+          <lido:appellationValue lido:pref="preferred" xml:lang="en">Last Judgement</lido:appellationValue>
+        </lido:titleSet>
+      </lido:titleWrap>
+      <lido:repositoryWrap>
+        <lido:repositorySet>
+          <lido:repositoryName>
+            <lido:legalBodyName>
+              <lido:appellationValue>Groeninge Museum Bruges</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:repositoryName>
+          <lido:workID lido:type="objectnummer">0000.GRO0208.I</lido:workID>
+        </lido:repositorySet>
+      </lido:repositoryWrap>
+      <lido:objectDescriptionWrap>
+        <lido:objectDescriptionSet>
+          <lido:descriptiveNoteValue>The triptych shows the three main themes from the story of the end of time. The center panel represents the Last Judgment, in which Christ appears in its apocalyptic form, surrounded by four heralding angels and some saints. The lily branch and the sword follow his hand gesture, respectively, upwardly in the direction of the blessed, down to the doomed. The heavenly paradise on the left panel and the light on the right panel showing the already consummated state after the Judgment. Bizarre and fantastic in the portrayal of bliss and damnation, the painting is especially the view of the Judge for yourself concerning unconventional. Both the motif of the resurrection as the gathering of the elect, the painter seems to have deliberately omitted. Christ appears above a monstrous vice and folly in living world, which is already a hell itself. The typical style of Hieronymus Bosch is recognizable in the small figures, the bizarre and sample-like elements, the color and the fine, transparent painting technique. The moralizing intention is clear here. Closed the triptych exhibits remnants of a crowning of thorns in grisaille, which originally went through continuous over the two shutters.</lido:descriptiveNoteValue>
+        </lido:objectDescriptionSet>
+      </lido:objectDescriptionWrap>
+      <lido:objectMeasurementsWrap>
+        <lido:objectMeasurementsSet>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>hoogte</lido:measurementType>
+              <lido:measurementUnit>cm</lido:measurementUnit>
+              <lido:measurementValue>98.7</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>geheel</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>breedte</lido:measurementType>
+              <lido:measurementUnit>cm</lido:measurementUnit>
+              <lido:measurementValue>110.7</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>geheel</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>hoogte</lido:measurementType>
+              <lido:measurementUnit>cm</lido:measurementUnit>
+              <lido:measurementValue>111.5</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>met lijst</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>breedte</lido:measurementType>
+              <lido:measurementUnit>cm</lido:measurementUnit>
+              <lido:measurementValue>147</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>met lijst</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>diepte</lido:measurementType>
+              <lido:measurementUnit>cm</lido:measurementUnit>
+              <lido:measurementValue>5</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>met lijst</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>hoogte</lido:measurementType>
+              <lido:measurementUnit>cm</lido:measurementUnit>
+              <lido:measurementValue>109.4</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>met lijst</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>breedte</lido:measurementType>
+              <lido:measurementUnit>cm</lido:measurementUnit>
+              <lido:measurementValue>148.1</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>met lijst</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>diepte</lido:measurementType>
+              <lido:measurementUnit>cm</lido:measurementUnit>
+              <lido:measurementValue>6</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>met lijst</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+      </lido:objectMeasurementsWrap>
+    </lido:objectIdentificationWrap>
+    <lido:eventWrap>
+      <lido:eventSet>
+        <lido:event>
+          <lido:eventType>
+            <lido:term>production</lido:term>
+          </lido:eventType>
+          <lido:eventActor>
+            <lido:actorInRole>
+              <lido:actor>
+                <lido:actorID lido:type="local" lido:source="Adlib">20000133</lido:actorID>
+                <lido:actorID lido:type="purl" lido:source="VIAF">http://viaf.org/viaf/305854999</lido:actorID>
+                <lido:actorID lido:type="purl" lido:source="RKD">https://rkd.nl/explore/artists/11018</lido:actorID>
+                <lido:actorID lido:type="purl" lido:source="Wikidata">http://www.wikidata.org/wiki/Q130531</lido:actorID>
+                <lido:nameActorSet>
+                  <lido:appellationValue lido:pref="preferred">Bosch, Jheronimus</lido:appellationValue>
+                  <lido:appellationValue lido:pref="alternate">Jheronimus Bosch</lido:appellationValue>
+                </lido:nameActorSet>
+                <lido:vitalDatesActor>
+                  <lido:earliestDate>1450</lido:earliestDate>
+                  <lido:latestDate>1516</lido:latestDate>
+                </lido:vitalDatesActor>
+              </lido:actor>
+            </lido:actorInRole>
+          </lido:eventActor>
+          <lido:eventDate>
+            <lido:displayDate>circa 1500</lido:displayDate>
+            <lido:date>
+              <lido:earliestDate lido:type="circa">1500</lido:earliestDate>
+              <lido:latestDate lido:type="circa">1500</lido:latestDate>
+            </lido:date>
+          </lido:eventDate>
+          <lido:periodName>
+            <lido:conceptID lido:type="local" lido:source="Adlib">20000150</lido:conceptID>
+            <lido:term xml:lang="nl">15th century</lido:term>
+          </lido:periodName>
+          <lido:periodName>
+            <lido:conceptID lido:type="local" lido:source="Adlib">20000146</lido:conceptID>
+            <lido:term xml:lang="en">16th century</lido:term>
+          </lido:periodName>
+          <lido:eventMaterialsTech>
+            <lido:materialsTech>
+              <lido:termMaterialsTech>
+                <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="Adlib">20000012</lido:conceptID>
+                <lido:term lido:pref="preferred" xml:lang="nl">olieverf</lido:term>
+              </lido:termMaterialsTech>
+            </lido:materialsTech>
+          </lido:eventMaterialsTech>
+          <lido:eventMaterialsTech>
+            <lido:materialsTech>
+              <lido:termMaterialsTech>
+                <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="Adlib">20000158</lido:conceptID>
+                <lido:conceptID lido:pref="alternate" lido:type="purl" lido:source="AAT">http://vocab.getty.edu/aat/300012264</lido:conceptID>
+                <lido:term lido:pref="preferred" xml:lang="en">oak</lido:term>
+                <lido:term lido:pref="alternate" xml:lang="en">oake</lido:term>
+              </lido:termMaterialsTech>
+            </lido:materialsTech>
+          </lido:eventMaterialsTech>
+          <lido:eventMaterialsTech>
+            <lido:displayMaterialsTech>olieverf op paneel</lido:displayMaterialsTech>
+          </lido:eventMaterialsTech>
+        </lido:event>
+      </lido:eventSet>
+    </lido:eventWrap>
+  </lido:descriptiveMetadata>
+  <lido:administrativeMetadata xml:lang="nl">
+    <lido:recordWrap>
+      <lido:recordID lido:type="global">http://groeningemuseum.be/collection/work/data/0000_GRO0208_I</lido:recordID>
+      <lido:recordID lido:type="local">20000242</lido:recordID>
+      <lido:recordType>
+        <lido:conceptID lido:type="local" lido:source="AAT">http://vocab.getty.edu/aat/300133025</lido:conceptID>
+        <lido:term>Item</lido:term>
+      </lido:recordType>
+      <lido:recordSource>
+        <lido:legalBodyName>
+          <lido:appellationValue>Musea Brugge - Groeningemuseum</lido:appellationValue>
+        </lido:legalBodyName>
+        <lido:legalBodyWeblink>http://groeningemuseum.be</lido:legalBodyWeblink>
+      </lido:recordSource>
+    </lido:recordWrap>
+    <lido:resourceWrap>
+      <lido:resourceSet>
+        <lido:resourceID lido:type="purl">http://groeningemuseum.be/collection/work/representation/0000_GRO0208_I</lido:resourceID>
+        <lido:resourceRepresentation>
+          <lido:linkResource>http://groeningemuseum.be/collection/work/representation/0000_GRO0208_I</lido:linkResource>
+        </lido:resourceRepresentation>
+      </lido:resourceSet>
+      <lido:resourceSet>
+        <lido:resourceID lido:type="local">0040008001</lido:resourceID>
+        <lido:resourceSource lido:type="holder of image">
+			    <lido:legalBodyName>
+				    <lido:appellationValue>
+			  	  Lukas, Arts in Flanders
+				    </lido:appellationValue>
+			    </lido:legalBodyName>
+		    </lido:resourceSource>
+            <lido:rightsResource>
+          <lido:rightsType>
+            <lido:conceptID lido:type:"URI" source="Creative Commons">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+            <lido:term>CC0</lido:term>
+            </lido:rightsType>
+        </lido:rightsResource>
+      </lido:resourceSet>
+      <lido:resourceSet>
+        <lido:resourceID lido:type="local">0040008004</lido:resourceID>
+        <lido:resourceSource lido:type="holder of image">
+			    <lido:legalBodyName>
+				    <lido:appellationValue>
+			  	  Lukas, Arts in Flanders
+				    </lido:appellationValue>
+			    </lido:legalBodyName>
+		    </lido:resourceSource>
+            <lido:rightsResource>
+          <lido:rightsType>
+            <lido:conceptID lido:type:"URI" source="Creative Commons">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+            <lido:term>CC0</lido:term>
+            </lido:rightsType>
+        </lido:rightsResource>
+      </lido:resourceSet>
+      <lido:resourceSet>
+        <lido:resourceID lido:type="local">0040008002</lido:resourceID>
+        <lido:resourceSource lido:type="holder of image">
+			    <lido:legalBodyName>
+				    <lido:appellationValue>
+			  	  Lukas, Arts in Flanders
+				    </lido:appellationValue>
+			    </lido:legalBodyName>
+		    </lido:resourceSource>
+            <lido:rightsResource>
+          <lido:rightsType>
+            <lido:conceptID lido:type:"URI" source="Creative Commons">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+            <lido:term>CC0</lido:term>
+            </lido:rightsType>
+        </lido:rightsResource>
+      </lido:resourceSet>
+    </lido:resourceWrap>
+  </lido:administrativeMetadata>
+</lido:lido>

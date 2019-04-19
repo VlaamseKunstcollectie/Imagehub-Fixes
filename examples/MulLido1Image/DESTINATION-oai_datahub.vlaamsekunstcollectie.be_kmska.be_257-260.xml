@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:gml="http://www.opengis.net/gml" xmlns:lido="http://www.lido-schema.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <lido:lidoRecID lido:pref="alternate" lido:type="purl" lido:source="Koninklijk Museum voor Schone Kunsten Antwerpen" lido:label="dataPID">http://kmska.be/collection/work/data/257-260</lido:lidoRecID>
+  <lido:lidoRecID lido:pref="preferred" lido:type="urn" lido:source="Vlaamse Kunstcollectie - Arthub Flanders" lido:label="dataPID">oai:datahub.vlaamsekunstcollectie.be:kmska.be:257-260</lido:lidoRecID>
+  <lido:objectPublishedID lido:type="purl" lido:source="Koninklijk Museum voor Schone Kunsten Antwerpen" lido:label="workPID">http://kmska.be/collection/work/id/257-260</lido:objectPublishedID>
+  <lido:category>
+    <lido:conceptID lido:type="purl" lido:source="cidoc-crm">http://www.cidoc-crm.org/Entity/e22-man-made-object/version-6.1</lido:conceptID>
+    <lido:term>Man-Made Object</lido:term>
+  </lido:category>
+  <lido:descriptiveMetadata xml:lang="nl">
+    <lido:objectClassificationWrap>
+      <lido:objectWorkTypeWrap>
+        <lido:objectWorkType>
+          <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="TMS">228691</lido:conceptID>
+          <lido:term lido:pref="preferred" xml:lang="nl">drieluik[zijluik]</lido:term>
+        </lido:objectWorkType>
+        <lido:objectWorkType>
+          <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="TMS">228765</lido:conceptID>
+          <lido:term lido:pref="preferred" xml:lang="nl">schilderij</lido:term>
+        </lido:objectWorkType>
+      </lido:objectWorkTypeWrap>
+      <lido:classificationWrap>
+        <lido:classification lido:type="objectcategorie">
+          <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="TMS">12</lido:conceptID>
+          <lido:term lido:pref="preferred" xml:lang="nl">schilderij</lido:term>
+        </lido:classification>
+        <lido:classification lido:type="hoofdmotief">
+          <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="TMS">234202</lido:conceptID>
+          <lido:term lido:pref="preferred" xml:lang="nl">Religieuze voorstellingen</lido:term>
+        </lido:classification>
+      </lido:classificationWrap>
+    </lido:objectClassificationWrap>
+    <lido:objectIdentificationWrap>
+      <lido:titleWrap>
+        <lido:titleSet>
+          <lido:appellationValue lido:pref="preferred" xml:lang="nl">Orsini Polyptiek</lido:appellationValue>
+          <lido:sourceAppellation xml:lang="nl">343</lido:sourceAppellation>
+        </lido:titleSet>
+      </lido:titleWrap>
+      <lido:repositoryWrap>
+        <lido:repositorySet>
+          <lido:workID lido:type="objectnummer">257-260</lido:workID>
+        </lido:repositorySet>
+      </lido:repositoryWrap>
+      <lido:objectDescriptionWrap>
+        <lido:objectDescriptionSet>
+          <lido:descriptiveNoteValue xml:lang="nl">Uit opzoekingen van H. van Os en M. Rinkleff-Reinders is gebleken dat onze schilderijen uit twee vlak doorgezaagde panelen zijn ontstaan. Oorspronkelijk bevond zich op de rugzijde van de Lanssteek aldus de Engel van de Annunciatie, en op de rugzijde van de Kruisafneming de Moeder Gods der Annunciatie. Samen met de Graflegging in de Staatliche Museen te Berlijn-Dahlem en de Kruisdraging in het Louvre vormden deze twee panelen eertijds een geheel, zogenaamd de Orsini-polyptiek, naar het familiewapen op de rugzijde van het Louvre-schilderij. Vermoed kan dus worden dat het hier oorspronkelijk ging om een reisaltaartje met op het linkerluik de Kruisdraging, in het midden de Lanssteek en de Kruisafneming, en rechts de Graflegging.&#13;
+    Wanneer de luiken gesloten waren zag men dan op de ene zijde de Annunciatie en op de andere de wapens der Orsini's. Op de voorgrond van de Kruisafneming, veel kleiner dan de overige figuren, de donator: een knielende en biddende bisschop. J. Brink wijst erop dat het hier vermoedelijk gaat om de Franciscaan Napoleone Orsini (1342 te Avignion), bij wie Simone Martini, blijkens een bericht van Petrarca, in dienst was. (Catalogus KMSKA Schilderkunst Oude Meesters)</lido:descriptiveNoteValue>
+        </lido:objectDescriptionSet>
+      </lido:objectDescriptionWrap>
+      <lido:objectMeasurementsWrap>
+        <lido:objectMeasurementsSet>
+          <lido:displayObjectMeasurements>29,5 × 82,1 × 2 cm</lido:displayObjectMeasurements>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>Hoogte</lido:measurementType>
+              <lido:measurementUnit>Centimeters</lido:measurementUnit>
+              <lido:measurementValue>29.5</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>Inclusief lijst</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:displayObjectMeasurements>29,5 × 82,1 × 2 cm</lido:displayObjectMeasurements>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>Breedte</lido:measurementType>
+              <lido:measurementUnit>Centimeters</lido:measurementUnit>
+              <lido:measurementValue>82.1</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>Inclusief lijst</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:displayObjectMeasurements>29,5 × 82,1 × 2 cm</lido:displayObjectMeasurements>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>Diepte</lido:measurementType>
+              <lido:measurementUnit>Centimeters</lido:measurementUnit>
+              <lido:measurementValue>2</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>Inclusief lijst</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:displayObjectMeasurements>29,5 × 82,1 × 2 cm</lido:displayObjectMeasurements>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>Diameter</lido:measurementType>
+              <lido:measurementUnit>Centimeters</lido:measurementUnit>
+              <lido:measurementValue>0</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>Inclusief lijst</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+      </lido:objectMeasurementsWrap>
+    </lido:objectIdentificationWrap>
+    <lido:eventWrap>
+      <lido:eventSet>
+        <lido:event>
+          <lido:eventType>
+            <lido:term>production</lido:term>
+          </lido:eventType>
+          <lido:eventActor>
+            <lido:actorInRole>
+              <lido:actor>
+                <lido:actorID lido:type="local" lido:source="TMS">1907</lido:actorID>
+                <lido:actorID lido:type="purl" lido:source="VIAF">http://viaf.org/viaf/101100651</lido:actorID>
+                <lido:actorID lido:type="purl" lido:source="RKD">https://rkd.nl/explore/artists/53008</lido:actorID>
+                <lido:actorID lido:type="purl" lido:source="Wikidata">http://www.wikidata.org/wiki/Q221043</lido:actorID>
+                <lido:nameActorSet>
+                  <lido:appellationValue lido:pref="preferred">Simone Martini</lido:appellationValue>
+                  <lido:appellationValue lido:pref="alternate">Simone Martini</lido:appellationValue>
+                </lido:nameActorSet>
+                <lido:vitalDatesActor>
+                  <lido:earliestDate>1284</lido:earliestDate>
+                  <lido:latestDate>1344</lido:latestDate>
+                </lido:vitalDatesActor>
+              </lido:actor>
+              <lido:roleActor>
+                <lido:term>schilder</lido:term>
+              </lido:roleActor>
+            </lido:actorInRole>
+          </lido:eventActor>
+          <lido:periodName>
+            <lido:term xml:lang="nl">14de eeuw</lido:term>
+          </lido:periodName>
+          <lido:eventMaterialsTech>
+            <lido:materialsTech>
+              <lido:termMaterialsTech>
+                <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="TMS">228901</lido:conceptID>
+                <lido:term lido:pref="preferred" xml:lang="nl">hout</lido:term>
+              </lido:termMaterialsTech>
+            </lido:materialsTech>
+          </lido:eventMaterialsTech>
+          <lido:eventMaterialsTech>
+            <lido:displayMaterialsTech>olieverf op paneel</lido:displayMaterialsTech>
+          </lido:eventMaterialsTech>
+        </lido:event>
+      </lido:eventSet>
+    </lido:eventWrap>
+    <lido:objectRelationWrap>
+        <lido:relatedWorksWrap>
+                <lido:relatedWorkSet>
+                    <lido:relatedWork>
+                        <lido:object>
+                            <lido:objectID lido:source="" lido:type="local">257
+                            </lido:objectID>
+                            <lido:objectID lido:type="oai">
+                            oai:datahub.vlaamsekunstcollectie.be:kmska.be:257
+                            </lido:objectID>
+                        </lido:object>
+                    </lido:relatedWork>
+                    <lido:relatedWorkRelType>
+                        <lido:conceptID lido:type="URI">http://purl.org/dc/terms/hasPart</lido:conceptID>
+                        <lido:term xml:lang="en">has part</lido:term>
+                    </lido:relatedWorkRelType>
+                    </lido:relatedWorkSet>
+                <lido:relatedWorkSet>
+                    <lido:relatedWork>
+                        <lido:object>
+                            <lido:objectID lido:source="" lido:type="local">258
+                            </lido:objectID>
+                            <lido:objectID lido:type="oai">
+                            oai:datahub.vlaamsekunstcollectie.be:kmska.be:258
+                            </lido:objectID>
+                        </lido:object>
+                    </lido:relatedWork>
+                    <lido:relatedWorkRelType>
+                        <lido:conceptID lido:type="URI">http://purl.org/dc/terms/hasPart</lido:conceptID>
+                        <lido:term xml:lang="en">has part</lido:term>
+                    </lido:relatedWorkRelType>
+                    </lido:relatedWorkSet>
+                <lido:relatedWorkSet>
+                    <lido:relatedWork>
+                        <lido:object>
+                            <lido:objectID lido:source="" lido:type="local">259
+                            </lido:objectID>
+                            <lido:objectID lido:type="oai">
+                            oai:datahub.vlaamsekunstcollectie.be:kmska.be:259
+                            </lido:objectID>
+                        </lido:object>
+                    </lido:relatedWork>
+                    <lido:relatedWorkRelType>
+                        <lido:conceptID lido:type="URI">http://purl.org/dc/terms/hasPart</lido:conceptID>
+                        <lido:term xml:lang="en">has part</lido:term>
+                    </lido:relatedWorkRelType>
+                    </lido:relatedWorkSet>
+                <lido:relatedWorkSet>
+                    <lido:relatedWork>
+                        <lido:object>
+                            <lido:objectID lido:source="" lido:type="local">260
+                            </lido:objectID>
+                            <lido:objectID lido:type="oai">
+                            oai:datahub.vlaamsekunstcollectie.be:kmska.be:260
+                            </lido:objectID>
+                        </lido:object>
+                    </lido:relatedWork>
+                    <lido:relatedWorkRelType>
+                        <lido:conceptID lido:type="URI">http://purl.org/dc/terms/hasPart</lido:conceptID>
+                        <lido:term xml:lang="en">has part</lido:term>
+                    </lido:relatedWorkRelType>
+                    </lido:relatedWorkSet>
+            </lido:relatedWorksWrap>
+        </lido:objectRelationWrap>
+  </lido:descriptiveMetadata>
+  <lido:descriptiveMetadata xml:lang="en">
+    <lido:objectClassificationWrap>
+      <lido:objectWorkTypeWrap>
+        <lido:objectWorkType>
+          <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="TMS">228691</lido:conceptID>
+          <lido:term lido:pref="preferred" xml:lang="nl">drieluik[zijluik]</lido:term>
+        </lido:objectWorkType>
+        <lido:objectWorkType>
+          <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="TMS">228765</lido:conceptID>
+          <lido:term lido:pref="preferred" xml:lang="nl">schilderij</lido:term>
+        </lido:objectWorkType>
+      </lido:objectWorkTypeWrap>
+      <lido:classificationWrap>
+        <lido:classification lido:type="objectcategorie">
+          <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="TMS">12</lido:conceptID>
+          <lido:term lido:pref="preferred" xml:lang="nl">schilderij</lido:term>
+        </lido:classification>
+        <lido:classification lido:type="hoofdmotief">
+          <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="TMS">234202</lido:conceptID>
+          <lido:term lido:pref="preferred" xml:lang="nl">Religieuze voorstellingen</lido:term>
+        </lido:classification>
+      </lido:classificationWrap>
+    </lido:objectClassificationWrap>
+    <lido:objectIdentificationWrap>
+      <lido:titleWrap>
+        <lido:titleSet>
+          <lido:appellationValue lido:pref="preferred" xml:lang="nl">Orsini Polyptiek</lido:appellationValue>
+          <lido:sourceAppellation xml:lang="nl">343</lido:sourceAppellation>
+        </lido:titleSet>
+      </lido:titleWrap>
+      <lido:repositoryWrap>
+        <lido:repositorySet>
+          <lido:workID lido:type="objectnummer">257-260</lido:workID>
+        </lido:repositorySet>
+      </lido:repositoryWrap>
+      <lido:objectDescriptionWrap>
+        <lido:objectDescriptionSet>
+          <lido:descriptiveNoteValue xml:lang="en">From searches of H. van Os and M. Rinkleff-Reindersmeer it has been found that our paintings from two plane panels sawn-through are formed. Originally stood on the back of Lance Cross says the Angel of the Annunciation, and on the back of the Descent of the Holy Mother of the Annunciation. Along with the Entombment in the Staatliche Museen, Berlin-Dahlem and the Carrying of the Cross at the Louvre were these two panels once a whole, called the Orsini polyptych, to the coat of arms on the back of the Louvre painting. It is suspected can thus be that this was originally came to a trip altar with on the left panel the Carrying of, in the middle of the spear and the Deposition, and on the right the entombment. \ R When the shutters were closed one saw than at the one side the Annunciation and on the other arms of the Orsini's. In the foreground of the Deposition, much smaller than the other figures, the donator: a kneeling and praying bishop. J. Brink points out that this is probably going to the Franciscan Napoleone Orsini (1342 to Avignion), where Simone Martini, according to a report by Petrarch, was employed. (Catalog KMSKA Old Masters Paintings)</lido:descriptiveNoteValue>
+        </lido:objectDescriptionSet>
+      </lido:objectDescriptionWrap>
+      <lido:objectMeasurementsWrap>
+        <lido:objectMeasurementsSet>
+          <lido:displayObjectMeasurements>29,5 × 82,1 × 2 cm</lido:displayObjectMeasurements>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>Hoogte</lido:measurementType>
+              <lido:measurementUnit>Centimeters</lido:measurementUnit>
+              <lido:measurementValue>29.5</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>Inclusief lijst</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:displayObjectMeasurements>29,5 × 82,1 × 2 cm</lido:displayObjectMeasurements>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>Breedte</lido:measurementType>
+              <lido:measurementUnit>Centimeters</lido:measurementUnit>
+              <lido:measurementValue>82.1</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>Inclusief lijst</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:displayObjectMeasurements>29,5 × 82,1 × 2 cm</lido:displayObjectMeasurements>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>Diepte</lido:measurementType>
+              <lido:measurementUnit>Centimeters</lido:measurementUnit>
+              <lido:measurementValue>2</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>Inclusief lijst</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+        <lido:objectMeasurementsSet>
+          <lido:displayObjectMeasurements>29,5 × 82,1 × 2 cm</lido:displayObjectMeasurements>
+          <lido:objectMeasurements>
+            <lido:measurementsSet>
+              <lido:measurementType>Diameter</lido:measurementType>
+              <lido:measurementUnit>Centimeters</lido:measurementUnit>
+              <lido:measurementValue>0</lido:measurementValue>
+            </lido:measurementsSet>
+            <lido:extentMeasurements>Inclusief lijst</lido:extentMeasurements>
+          </lido:objectMeasurements>
+        </lido:objectMeasurementsSet>
+      </lido:objectMeasurementsWrap>
+    </lido:objectIdentificationWrap>
+    <lido:eventWrap>
+      <lido:eventSet>
+        <lido:event>
+          <lido:eventType>
+            <lido:term>production</lido:term>
+          </lido:eventType>
+          <lido:eventActor>
+            <lido:actorInRole>
+              <lido:actor>
+                <lido:actorID lido:type="local" lido:source="TMS">1907</lido:actorID>
+                <lido:actorID lido:type="purl" lido:source="VIAF">http://viaf.org/viaf/101100651</lido:actorID>
+                <lido:actorID lido:type="purl" lido:source="RKD">https://rkd.nl/explore/artists/53008</lido:actorID>
+                <lido:actorID lido:type="purl" lido:source="Wikidata">http://www.wikidata.org/wiki/Q221043</lido:actorID>
+                <lido:nameActorSet>
+                  <lido:appellationValue lido:pref="preferred">Simone Martini</lido:appellationValue>
+                  <lido:appellationValue lido:pref="alternate">Simone Martini</lido:appellationValue>
+                </lido:nameActorSet>
+                <lido:vitalDatesActor>
+                  <lido:earliestDate>1284</lido:earliestDate>
+                  <lido:latestDate>1344</lido:latestDate>
+                </lido:vitalDatesActor>
+              </lido:actor>
+              <lido:roleActor>
+                <lido:term>schilder</lido:term>
+              </lido:roleActor>
+            </lido:actorInRole>
+          </lido:eventActor>
+          <lido:periodName>
+            <lido:term xml:lang="en">14th century</lido:term>
+          </lido:periodName>
+          <lido:eventMaterialsTech>
+            <lido:materialsTech>
+              <lido:termMaterialsTech>
+                <lido:conceptID lido:pref="preferred" lido:type="local" lido:source="TMS">228901</lido:conceptID>
+                <lido:term lido:pref="preferred" xml:lang="nl">hout</lido:term>
+              </lido:termMaterialsTech>
+            </lido:materialsTech>
+          </lido:eventMaterialsTech>
+          <lido:eventMaterialsTech>
+            <lido:displayMaterialsTech>olieverf op paneel</lido:displayMaterialsTech>
+          </lido:eventMaterialsTech>
+        </lido:event>
+      </lido:eventSet>
+    </lido:eventWrap>
+    <lido:objectRelationWrap>
+        <lido:relatedWorksWrap>
+                <lido:relatedWorkSet>
+                    <lido:relatedWork>
+                        <lido:object>
+                            <lido:objectID lido:source="" lido:type="local">257
+                            </lido:objectID>
+                            <lido:objectID lido:type="oai">
+                            oai:datahub.vlaamsekunstcollectie.be:kmska.be:257
+                            </lido:objectID>
+                        </lido:object>
+                    </lido:relatedWork>
+                    <lido:relatedWorkRelType>
+                        <lido:conceptID lido:type="URI">http://purl.org/dc/terms/hasPart</lido:conceptID>
+                        <lido:term xml:lang="en">has part</lido:term>
+                    </lido:relatedWorkRelType>
+                    </lido:relatedWorkSet>
+                <lido:relatedWorkSet>
+                    <lido:relatedWork>
+                        <lido:object>
+                            <lido:objectID lido:source="" lido:type="local">258
+                            </lido:objectID>
+                            <lido:objectID lido:type="oai">
+                            oai:datahub.vlaamsekunstcollectie.be:kmska.be:258
+                            </lido:objectID>
+                        </lido:object>
+                    </lido:relatedWork>
+                    <lido:relatedWorkRelType>
+                        <lido:conceptID lido:type="URI">http://purl.org/dc/terms/hasPart</lido:conceptID>
+                        <lido:term xml:lang="en">has part</lido:term>
+                    </lido:relatedWorkRelType>
+                    </lido:relatedWorkSet>
+                <lido:relatedWorkSet>
+                    <lido:relatedWork>
+                        <lido:object>
+                            <lido:objectID lido:source="" lido:type="local">259
+                            </lido:objectID>
+                            <lido:objectID lido:type="oai">
+                            oai:datahub.vlaamsekunstcollectie.be:kmska.be:259
+                            </lido:objectID>
+                        </lido:object>
+                    </lido:relatedWork>
+                    <lido:relatedWorkRelType>
+                        <lido:conceptID lido:type="URI">http://purl.org/dc/terms/hasPart</lido:conceptID>
+                        <lido:term xml:lang="en">has part</lido:term>
+                    </lido:relatedWorkRelType>
+                    </lido:relatedWorkSet>
+                <lido:relatedWorkSet>
+                    <lido:relatedWork>
+                        <lido:object>
+                            <lido:objectID lido:source="" lido:type="local">260
+                            </lido:objectID>
+                            <lido:objectID lido:type="oai">
+                            oai:datahub.vlaamsekunstcollectie.be:kmska.be:260
+                            </lido:objectID>
+                        </lido:object>
+                    </lido:relatedWork>
+                    <lido:relatedWorkRelType>
+                        <lido:conceptID lido:type="URI">http://purl.org/dc/terms/hasPart</lido:conceptID>
+                        <lido:term xml:lang="en">has part</lido:term>
+                    </lido:relatedWorkRelType>
+                    </lido:relatedWorkSet>
+            </lido:relatedWorksWrap>
+        </lido:objectRelationWrap>
+  </lido:descriptiveMetadata>
+  <lido:administrativeMetadata xml:lang="nl">
+    <lido:recordWrap>
+      <lido:recordID lido:type="global">http://kmska.be/collection/work/data/257-260</lido:recordID>
+      <lido:recordID lido:type="local">329</lido:recordID>
+      <lido:recordType>
+        <lido:conceptID lido:type="local" lido:source="AAT">http://vocab.getty.edu/aat/300133025</lido:conceptID>
+        <lido:term>Item</lido:term>
+      </lido:recordType>
+      <lido:recordSource>
+        <lido:legalBodyName>
+          <lido:appellationValue>Koninklijk Museum voor Schone Kunsten Antwerpen</lido:appellationValue>
+        </lido:legalBodyName>
+        <lido:legalBodyWeblink>http://kmska.be</lido:legalBodyWeblink>
+      </lido:recordSource>
+    </lido:recordWrap>
+    <lido:resourceWrap>
+    <lido:resourceSet>
+        <lido:resourceID lido:type="local">0030251000</lido:resourceID>
+        <lido:resourceSource lido:type="holder of image">
+			    <lido:legalBodyName>
+				    <lido:appellationValue>
+			  	  Lukas, Arts in Flanders
+				    </lido:appellationValue>
+			    </lido:legalBodyName>
+		    </lido:resourceSource>
+        <lido:rightsResource>
+          <lido:rightsType>
+            <lido:conceptID lido:type:"URI" source="Creative Commons">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+            <lido:term>CC0</lido:term>
+            </lido:rightsType>
+        </lido:rightsResource>
+      </lido:resourceSet>
+    </lido:resourceWrap>
+  </lido:administrativeMetadata>
+</lido:lido>
