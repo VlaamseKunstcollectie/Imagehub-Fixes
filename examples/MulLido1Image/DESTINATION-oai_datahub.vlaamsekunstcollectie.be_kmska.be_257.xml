@@ -509,7 +509,7 @@
 		    </lido:resourceSource>
         <lido:rightsResource>
           <lido:rightsType>
-            <lido:conceptID lido:type:"URI" source="Creative Commons">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+            <lido:conceptID lido:type="URI" lido:source="Creative Commons">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
             <lido:term>CC0</lido:term>
             </lido:rightsType>
         </lido:rightsResource>
