@@ -1,0 +1,3 @@
+
+copy_field(_metadata.descriptiveMetadata, test)
+retain(test)
