@@ -137,8 +137,8 @@
                     "@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1982-N/canvas/2.json",
                     "@type": "sc:Canvas",
                     "label": "100000070",
-                    "height": 0,
-                    "width": 0,
+                    "height": 5000,
+                    "width": 3750,
                     "images": [
                         {
                             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -153,8 +153,8 @@
                                     "@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/100000070",
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 },
-                                "height": 0,
-                                "width": 0
+                                "height": 5000,
+                                "width": 3750
                             },
                             "on": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1982-N/canvas/2.json"
                         }
