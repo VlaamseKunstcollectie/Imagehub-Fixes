@@ -507,7 +507,7 @@ do list(path:'filteredDescriptiveMetadata.eventWrap.eventSet', var: e)
 
                 # Use NL field
 
-                if all_match('per.term.*.lang', 'nl')
+                if all_match('per.term.*.lang', 'en')
                     if all_match('per.term.*._', '.*\S.*')
                         copy_field('per.term.*._', period.$append)
                     else
