@@ -66,6 +66,7 @@
 #   lido:measurementsSet
 #       lido:extentMeasurements
 #           geheel                                  dimensions
+#
 #                                                   creator
 # lido:eventType
 #   lido:term
@@ -89,7 +90,20 @@
 #   lido:recordSource
 #       lido:legalBodyName                          repository
 # lido:resourceWrap
-#   lido:resourceID                                 representation_pid
+#   lido:resourceSet
+#       lido:resourceID                             representation_pid
+#       lido:resourceRepresentation
+#   lido:resourceSet
+#       lido:resourceID                             manifest_url
+#       lido:resourceType
+#           lido:term
+#               IIIF Manifest
+#   lido:resourceSet
+#       lido:resourceID                             thumbnail_url
+#       lido:resourceType
+#           lido:term
+#               thumbnail
+#
 #                                                   publish_image          
 
 
@@ -947,17 +961,67 @@ unless exists(data_pid)
 end
 
 
+## Resource sets
+
+unless is_array('filteredAdministrativeMetadata.resourceWrap.resourceSet')
+    move_field('filteredAdministrativeMetadata.resourceWrap.resourceSet', tmp)
+    set_array('filteredAdministrativeMetadata.resourceWrap.resourceSet')
+    move_field(tmp,'filteredAdministrativeMetadata.resourceWrap.resourceSet.$append')
+end
+
+
 ## Representation_pid
 
-if all_match('filteredAdministrativeMetadata.resourceWrap.resourceSet.resourceID', '.*\S.*')
-    copy_field('filteredAdministrativeMetadata.resourceWrap.resourceSet.resourceID', 'representation_pid')
-else
-    add_field('representation_pid', 'n/a')
+do list(path:'filteredAdministrativeMetadata.resourceWrap.resourceSet', var:r)
+    if exists('r.resourceRepresentation')
+        if all_match('r.resourceID._', '.*\S.*')
+            copy_field('r.resourceID._', 'representation_pid')
+        end
+    end
 end
 
 unless exists(representation_pid)
     add_field(representation_pid, 'n/a')
 end
+
+
+## Manifest_url
+
+do list(path:'filteredAdministrativeMetadata.resourceWrap.resourceSet', var:r)
+    
+    do list(path:'r.resourceType.term', var:m)
+        if all_match(m._, 'IIIF Manifest')
+            if all_match('r.resourceID._', '.*\S.*')
+                copy_field('r.resourceID._', 'manifest_url')
+            end
+        end
+    end
+
+end
+
+unless exists(manifest_url)
+    add_field(manifest_url, 'n/a')
+end
+
+
+## Thumbnail_url
+
+do list(path:'filteredAdministrativeMetadata.resourceWrap.resourceSet', var:r)
+    
+    do list(path:'r.resourceType.term', var:t)
+        if all_match(t._, 'thumbnail')
+            if all_match('r.resourceID._', '.*\S.*')
+                copy_field('r.resourceID._', 'thumbnail_url')
+            end
+        end
+    end
+
+end
+
+unless exists(thumbnail_url)
+    add_field(thumbnail_url, 'n/a')
+end
+
 
 ## Language
 
