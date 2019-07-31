@@ -1,6 +1,13 @@
 #!/bin/bash
 set -e
 
+# Create compressed versions of the images in the 'compressed' folder
+
+(
+  cd /iiif-data/original ;
+  mogrify -path ../compressed -define tiff:tile-geometry=256x256 -compress jpeg ptif:* 2>&1
+)
+
 # ETL 2-3 & ETL 5
 
 (
