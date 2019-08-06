@@ -1,6 +1,6 @@
 # Imagehub-Fixes
 
-<img src="https://i.imgur.com/qMqZMhj.png" alt="imagehub workflow April 2019">
+<img src="https://imgur.com/a/x1XzWEr" alt="imagehub workflow August 2019">
 
 This repository contains scripts and input files used in the IIIF imagehub architecture.
 
